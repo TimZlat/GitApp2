@@ -11,6 +11,7 @@ namespace GitApp2
         static void Main(string[] args)
         {
             Console.WriteLine("Второй проект с СКВ");
+            Console.WriteLine("Второй проект с СКВ");
             Console.ReadKey();
         }
     }
